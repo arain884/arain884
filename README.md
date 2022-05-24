@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Safeer Ahmad.
 - 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Data Analyst, Web Development and API'S Economy.
+- 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to collaborate on Data Analyst.
 - 📫 How to reach me ad.arain35@gmail.com.
 
